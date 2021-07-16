@@ -1,0 +1,20 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "UserDeleteUserModal": {
+    "description": "Auto imported from components/user/DeleteUserModal.vue"
+  },
+  "UserItem": {
+    "description": "Auto imported from components/user/UserItem.vue"
+  },
+  "UserModal": {
+    "description": "Auto imported from components/user/UserModal.vue"
+  },
+  "UserTable": {
+    "description": "Auto imported from components/user/UserTable.vue"
+  }
+}
